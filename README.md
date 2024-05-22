@@ -2,7 +2,7 @@
 This is a simple java example project that tries to follow [best practices](https://bazel.build/versions/master/docs/best-practices.html).
 
 ## Usage
-1. Clone the repo ka
+1. Clone the repo kas
 2. Install [bazelisk](https://github.com/bazelbuild/bazelisk)
 3. Build the repo:
     ```
